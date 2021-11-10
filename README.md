@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lexreal25
-- 👀 I’m interested in Web and Mobile Application Development
-- 🌱 I’m currently learning React Js and React Native
+- 👀 I’m Web and Mobile Application Developer
+- 🌱 Using React Js and React Native
 - 💞️ I’m looking to collaborate on both web and mobile applications
 - 📫 How to reach me danielnagaski@gmail.com
 
