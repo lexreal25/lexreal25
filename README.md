@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lexreal25
 - 👀 I’m Web and Mobile Application Developer
-- 🌱 Using React Js and React Expo
+- 🌱 Using React Js and React Expo, NodeJs, Prisma,
 - 💞️ I’m looking to collaborate on both web and mobile applications
 - 📫 How to reach me danielnagaski@gmail.com
 
